@@ -1,5 +1,8 @@
 # Dotox Frontend
 
+
+[6팀_도톡스_최종_해커톤.pdf](https://github.com/user-attachments/files/19177212/6._._._.pdf)
+
 ---
 
 ## 개발 서버 실행 방법
